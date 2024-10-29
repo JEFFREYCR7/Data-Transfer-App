@@ -1,2 +1,2 @@
-<font size="48"> Little Practice </font>
+<font size="10">Little Practice</font>
 # Data-Transfer-App for IOS

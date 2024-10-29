@@ -17,6 +17,7 @@
 项目开始：
 移动设备输入
 <center>
+    <img height="500px" src="https://github.com/user-attachments/assets/3c745b17-6eb9-4427-8964-44814aafcf8d">
   <img height="500px" src="https://github.com/user-attachments/assets/1fc0dec7-f704-4fe7-be13-aff08a1d2aa7">
-  <img height="500px" src="https://github.com/user-attachments/assets/3c745b17-6eb9-4427-8964-44814aafcf8d">
+
 </center>

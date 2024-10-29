@@ -7,9 +7,11 @@
 理解基础概念：
   Spring Boot：学习其核心概念，如控制器、服务、存储库、依赖注入等。
   SwiftUI：掌握状态管理、视图和模型的绑定，以及如何通过网络请求与后端交互。
+![index](https://github.com/user-attachments/assets/aa8bae06-18f3-4239-915c-da541632ce44)
 
 这是移动设备的截图
-<img width="686" ![index](https://github.com/user-attachments/assets/9162f54d-08f0-420f-9b02-46cd0f9779cd) >
+<img height="300px" src="https://github.com/user-attachments/assets/aa8bae06-18f3-4239-915c-da541632ce44">
+
 
 
 项目开始：

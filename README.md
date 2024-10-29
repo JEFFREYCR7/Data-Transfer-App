@@ -9,13 +9,14 @@
   SwiftUI：掌握状态管理、视图和模型的绑定，以及如何通过网络请求与后端交互。
 
 这是移动设备的截图
-<img height="300px" src="https://github.com/user-attachments/assets/aa8bae06-18f3-4239-915c-da541632ce44">
+
+<img height="500px" src="https://github.com/user-attachments/assets/aa8bae06-18f3-4239-915c-da541632ce44">
 
 
 
 项目开始：
 移动设备输入
 <center>
-  <img height="300px" src="https://github.com/user-attachments/assets/1fc0dec7-f704-4fe7-be13-aff08a1d2aa7">
-  <img height="300px" src="https://github.com/user-attachments/assets/3c745b17-6eb9-4427-8964-44814aafcf8d">
+  <img height="500px" src="https://github.com/user-attachments/assets/1fc0dec7-f704-4fe7-be13-aff08a1d2aa7">
+  <img height="500px" src="https://github.com/user-attachments/assets/3c745b17-6eb9-4427-8964-44814aafcf8d">
 </center>
